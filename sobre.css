@@ -1,0 +1,17 @@
+body{
+
+background-image: linear-gradient(to left , #034159 , #025951 ,#02735E,#038C3E ,#0CF25D);
+}
+main{
+    width: 700px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10;
+    text-align: justify;
+    box-shadow: 20px,20px,20px, black;
+
+}
+h1{
+    text-align: center;
+}

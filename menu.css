@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to left , #4E0FA6,#0597F2,#04B2D9,#05F2C7,#B6F2BF)
+}
+main{
+    background-color: white;
+    width: 700px;
+    margin: auto;
+    border-radius: 20px;
+}
+.menu{
+    background-color:#D9D9D9;
+    border-radius: 5px;
+    position: fixed;
+    margin: auto;
+    width: 660px;
+    margin-top: 0px;
+    top: 0;
+    z-index: 10;
+}
+.link{
+    display: inline;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+a{
+    color: #4E0FA6;
+    font-family: cursive;
+    font-size: 20px; 
+    background-color:#acacac;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.link:hover{
+   text-decoration: underline;
+   font-size: 40px;
+}
+a:hover{
+    color: red;
+    transition: 1s;
+}

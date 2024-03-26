@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(to left , #4E0FA6,#0597F2,#04B2D9,#05F2C7,#B6F2BF)
+}
+main{
+    background-color: white;
+    width: 700px;
+    margin: auto;
+    border-radius: 20px;
+}
+.menu{
+    background-color:#d4d4d4;
+    border-radius: 5px;
+    position: fixed;
+    width: 660px;
+    height: 50px;
+    margin-top: 0px;
+    top: 0;
+    z-index: 10;
+    margin: auto;
+}
+.link{
+    display: inline;
+    padding-left: 45px;
+    padding-right: 45px;
+
+}
+a{
+    color: #4E0FA6;
+    font-family: cursive;
+    font-size: 25px; 
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: darkgray;
+    
+}
+.link:hover{
+   text-decoration: underline;
+   font-size: 35px;
+}
+a:hover{
+    color: red;
+    transition: 1s;
+}
+h1{
+    background-color: #4E0FA6;
+    
+    
+}
